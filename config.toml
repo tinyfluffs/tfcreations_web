@@ -14,6 +14,10 @@ disableKinds = ["taxonomy", "term"]
   image = "img/logo.png"  # path relative to static directory
 
   links = [
+    { twitter = "https://twitter.com/tf_creation" },
+    { telegram = "https://t.me/tf_creations" },
+    { youtube = "https://www.youtube.com/channel/UCfdbwfHX2HZZH12XE_qBdUQ" },
+    { mastodon = "https://mastodon.art/@tf_creations" },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -33,7 +37,6 @@ disableKinds = ["taxonomy", "term"]
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
-    { mastodon = "https://mastodon.art/@tf_creations" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
@@ -43,13 +46,10 @@ disableKinds = ["taxonomy", "term"]
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
     # { steam = "https://steamcommunity.com/profiles/userid" },
-    { telegram = "https://t.me/tf_creations" },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    { twitter = "https://twitter.com/tf_creation" },
     # { whatsapp = "https://wa.me/phone-number" },
-    { youtube = "https://www.youtube.com/channel/UCfdbwfHX2HZZH12XE_qBdUQ" },
   ]
 
 [module]
